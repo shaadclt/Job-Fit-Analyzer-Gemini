@@ -1,5 +1,7 @@
 # Job Fit Analyzer
 
+![jobfit](https://github.com/shaadclt/Job-Fit-Analyzer-Gemini/assets/98437584/cf07b3bb-90cb-4a6e-a6ca-4849e0862fa3)
+
 Job Fit Analyzer is an application designed to assist in evaluating resumes based on given job descriptions. It utilizes machine learning and natural language processing techniques to analyze resumes and provide feedback on their suitability for a particular job role.
 
 ## Features
